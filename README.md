@@ -26,4 +26,4 @@ I’m currently upskilling to transition into **Product Management** or **Engine
 
 ### Get in Touch 📬
 
-Connect with me or send me InMail message: [LinkedIn](https://www.linkedin.com/in/cstola/)
+Connect with me (add the intent/intro pls) or send me an InMail message: [LinkedIn](https://www.linkedin.com/in/cstola/)
