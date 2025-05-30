@@ -2,12 +2,12 @@
 
 ### About Me 🚀
 
-I'm an experienced **technology and service leader** with a background in **solution design** and **enterprise platform management**. After years of working closely with product teams and customers, I'm building on my passion for **software engineering** to create impactfull solutions and solve complex problems.
+I'm an experienced **technology and service leader** with a background in **business solution design** and **enterprise platform management**. After years of working closely with customers and product teams, I'm building on my passion for **software engineering** to create impactfull solutions and solve complex problems.
 
 I’m currently upskilling to transition into **Product Management** or **Engineering Management** roles, combining my industry knowledge with modern tools and practices.
 
 - 🌱 Currently learning: **System design, Cloud solutions architecture, AI, Python**
-- 📚 Certifications: **Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
+- 📚 Certifications: **AI-900: Microsoft Azure AI Fundamentals**,**Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
 - 🔭 Working on: **Refreshing coding skills, contributing to small projects, building a portfolio**
 - 🌍 Languages: **Python, PHP**, previously **C#, Clipper, Turbo Pascal** | Fluent in **English**, **Polish**
 
