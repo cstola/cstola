@@ -7,7 +7,7 @@ I'm an experienced **technology and service leader** with a background in **busi
 I’m currently upskilling to transition into **Product Management** or **Engineering Management** roles, combining my industry knowledge with modern tools and practices.
 
 - 🌱 Currently learning: **System design, Cloud solutions architecture, AI, Python**
-- 📚 Certifications: **AI-900: Microsoft Azure AI Fundamentals**, **Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
+- 📚 Certifications: **AI-900: Microsoft Azure AI Fundamentals**, **AZ-900: Microsoft Azure Fundamentals**, **Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
 - 🔭 Working on: **Refreshing coding skills, contributing to small projects, building a portfolio**
 - 🌍 Languages: **Python, PHP**, previously **C#, Clipper, Turbo Pascal** | Fluent in **English**, **Polish**
 
