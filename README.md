@@ -10,6 +10,8 @@ I’m currently upskilling to transition into **Product Management** or **Engine
 - 📚 Certifications: **AI-900: Microsoft Azure AI Fundamentals**, **AZ-900: Microsoft Azure Fundamentals**, **Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
 - 🔭 Working on: **Refreshing coding skills, contributing to small projects, building a portfolio**
 - 🌍 Languages: **Python, PHP**, previously **C#, Clipper, Turbo Pascal** | Fluent in **English**, **Polish**
+- 🚀 I'm curating [My Tech Tool Catalog](https://github.com/cstola/Tech-tool-catalog) – a growing collection of tools, platforms and solutions I'm learning through workshops and experimentation.
+
 
 ### My Skills 🧠
 
