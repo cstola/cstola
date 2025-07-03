@@ -4,11 +4,11 @@
 
 I'm an experienced **technology and service leader** with a background in **business solution design** and **enterprise platform management**. After years of working closely with customers and product teams, I'm building on my passion for **software engineering** to create impactfull solutions and solve complex problems.
 
-I’m currently upskilling to transition into **Product Management** or **Engineering Management** roles, combining my industry knowledge with modern tools and practices.
+I’m currently upskilling to transition into **Engineering Management**, **Platform Engineering** or **Product Management** roles, combining my industry knowledge with modern tools and practices.
 
-- 🌱 Currently learning: **System design, Cloud solutions architecture, AI, Python**
-- 📚 Certifications: **AI-900: Microsoft Azure AI Fundamentals**, **AZ-900: Microsoft Azure Fundamentals**, **Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
+- 🌱 Currently learning: **System design, Platform engineering, AI - GitHub copilot, Python**
 - 🔭 Working on: **Refreshing coding skills, contributing to small projects, building a portfolio**
+- 📚 Certifications: **AI-900: Microsoft Azure AI Fundamentals**, **AZ-900: Microsoft Azure Fundamentals**, **Scrum Professional Agile Leadership**, **PCEP - Python Programmer**
 - 🌍 Languages: **Python, PHP**, previously **C#, Clipper, Turbo Pascal** | Fluent in **English**, **Polish**
 - 🚀 I'm curating [My Tech Tool Catalog](https://github.com/cstola/Tech-tool-catalog) – a growing collection of tools, platforms and solutions I'm learning through workshops and experimentation.
 
@@ -25,6 +25,10 @@ I’m currently upskilling to transition into **Product Management** or **Engine
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat-square&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
 ### Get in Touch 📬
 
