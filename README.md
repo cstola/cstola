@@ -1,4 +1,4 @@
-## Hi there, I'm Cezary Stola (aka Czarek)! 👋
+## Hi there, I'm Cezary Stola 👋
 
 ### About Me 🚀
 
